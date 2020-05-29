@@ -151,4 +151,4 @@ c.live(profileName)
 * Wear headset and make sure have a good contact quality, contact quality could be viewed visually on CortexUI
 * Run example first time to request access ```node cortex_code_example.js```
 * Approve access on CortexUI manually (Action of approve need to do only onece)
-* Rerun example to sub data or training
+* Return example to sub data or training
